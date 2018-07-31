@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "Resources We Like"
+title: "Resources"
 tags: resources
 ---
 
-## Resources We Like
+## Infosec Resources
 
-Here is where we'll crowdsource a list of infosec things we like - blogs, twitter accounts, tutorials, tools, etc.
+Here is where we'll crowdsource a list of infosec things we like - blogs, tutorials, tools, etc.
