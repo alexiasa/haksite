@@ -10,4 +10,4 @@ you'd like to share, we'd love to hear about it.
 We try to meet once a month or so to discuss current information security news and events, conferences, projects,
 job opportunities, etc. We also usually demo projects we're working on or cool tools we've discovered.
 
-You can find us on [discord](https://discord.gg/grYbb4j) or [Meetup](https://www.meetup.com/meetup-group-EJcdMAik/).
+Shout at us online!
