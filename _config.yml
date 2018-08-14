@@ -8,8 +8,14 @@ google_verification: null
 
 
 # File management
-include: [".htaccess"]
-exclude: ["README.md", "LICENSE"]
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
 
 # Sass
 sass:
